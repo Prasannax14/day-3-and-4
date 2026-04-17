@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Laptop", "description": "Good laptop" },
+  { "id": 2, "name": "Phone", "description": "Smart phone" },
+  { "id": 3, "name": "Headphones", "description": "Nice sound" }
+]
